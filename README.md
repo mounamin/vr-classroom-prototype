@@ -1,23 +1,27 @@
 # VR Classroom Prototype
 
 ## Overview
-This project is a research-oriented VR prototype designed to explore immersive
-and natural interaction in educational environments.
+This project presents a Virtual Reality classroom prototype built using Unity 3D.
+It allows users to explore and interact with a 3D classroom environment using VR.
+
+The project is intended as a research prototype and a foundation for immersive VR education or VR interaction systems.
 
 ## Technologies
 - Unity 3D
 - C#
-- Virtual Reality
-- Gesture & Voice Interaction
+- Unity 2021.3 LTS (or newer)
+- XR Plugin Management (for VR headset support)
+- VR headset (Oculus, HTC Vive, or compatible)
 
 ## Features
 - Interactive VR classroom environment
 - NPC interaction
 - Designed for immersive learning
+- Basic interaction with objects (e.g., picking or examining items)
 
 ## Research Context
-This work supports research in immersive VR, human–computer interaction,
-and AI-based interaction systems.
+This project is related to VR education, human-computer interaction (HCI), and immersive learning environments.
+It can be extended for multi-user VR classrooms, AI-driven interactions, or educational simulations.
 
 ## Status
 Ongoing research prototype.
