@@ -7,8 +7,8 @@ It allows users to explore and interact with a 3D classroom environment using VR
 The project is intended as a research prototype and a foundation for immersive VR education or VR interaction systems.
 ## Screenshots
 
-![Position 1](assets/vr1.png)
-![Position 2](assets/vr2.png)
+![Position 1](assets/PlayEdu.png)
+
 
 **Demo Video:**
 
