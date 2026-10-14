@@ -10,6 +10,10 @@ The project is intended as a research prototype and a foundation for immersive V
 ![Position 1](assets/vr1.png)
 ![Position 2](assets/vr2.png)
 
+**Demo Video:**
+
+https://github.com/user-attachments/assets/0c644ad6-e975-4692-9b0d-c494133f8f44
+
 ## Technologies
 - Unity 3D
 - C#
