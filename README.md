@@ -9,7 +9,9 @@ The project is intended as a research prototype and a foundation for immersive V
 **Lead Developer** — designed and implemented all AI integration (NLP, voice, gesture), NPC behavior, API integration, and interaction systems.
 
 **Demo Video:**
-https://github.com/user-attachments/assets/0c644ad6-e975-4692-9b0d-c494133f8f44
+
+https://github.com/user-attachments/assets/100e4ca7-66dc-4145-8a49-e4dde75b08de
+
 
 ## Screenshots
 ![Position 1](assets/PlayEdu.png)
