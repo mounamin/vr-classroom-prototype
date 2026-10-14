@@ -3,33 +3,39 @@
 ## Overview
 This project presents a Virtual Reality classroom prototype built using Unity 3D.
 It allows users to explore and interact with a 3D classroom environment using VR.
-
 The project is intended as a research prototype and a foundation for immersive VR education or VR interaction systems.
-## Screenshots
 
-![Position 1](assets/PlayEdu.png)
-
+## My Role
+**Lead Developer** — designed and implemented all AI integration (NLP, voice, gesture), NPC behavior, API integration, and interaction systems.
 
 **Demo Video:**
-
 https://github.com/user-attachments/assets/0c644ad6-e975-4692-9b0d-c494133f8f44
 
+## Screenshots
+![Position 1](assets/PlayEdu.png)
+
 ## Technologies
-- Unity 3D
+- Unity 3D (2021.3 LTS)
 - C#
-- Unity 2021.3 LTS (or newer)
 - XR Plugin Management (for VR headset support)
 - VR headset (Oculus, HTC Vive, or compatible)
 
 ## Features
-- Interactive VR classroom environment
-- NPC interaction
-- Designed for immersive learning
-- Basic interaction with objects (e.g., picking or examining items)
+- **AI-powered NPC teacher** with NLP-based voice interaction
+- **Gesture-based controls** using hand tracking
+- **REST API integration** for real-time AI services
+- **Cross-platform deployment:** PC, mobile, and Meta Quest
+- Interactive 3D classroom environment
+- Object interaction (picking, examining)
 
 ## Research Context
 This project is related to VR education, human-computer interaction (HCI), and immersive learning environments.
 It can be extended for multi-user VR classrooms, AI-driven interactions, or educational simulations.
 
+## Credits
+- Character model and animations: [Mixamo](https://www.mixamo.com) (free)
+- Some 3D environment assets: Unity Asset Store (free/educational)
+- All code, AI integration (NLP, voice, gesture), NPC behavior, API integration, and gameplay systems: developed by me
+  
 ## Status
 Ongoing research prototype.
